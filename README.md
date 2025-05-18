@@ -1,3 +1,4 @@
 ## BC_codes_solana
-I have Creating a smart contract 
+I have tried to
+Creating a smart contract 
 on solana.
